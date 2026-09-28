@@ -3130,24 +3130,3 @@ p {
     width: 100%;
   }
 }
-
-.work_visual {
-  position: relative;
-  overflow: hidden;
-}
-
-.work__preview-image {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.work__visual-top,
-.work__symbol,
-.work__view {
-  position: relative;
-  z-index: 2;
-}

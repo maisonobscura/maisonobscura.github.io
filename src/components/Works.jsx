@@ -509,9 +509,11 @@ useEffect(() => {
               >
 
 
-              <div className="work__visual">
-
-                <img src="{work.images[0]}" alt="" className="work__preview-image"/>
+              <div className="work__visual" style={{
+                backgroundImage: 'url(${work.images[0]})',
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}>
 
                 <div className="work__visual-top">
 
