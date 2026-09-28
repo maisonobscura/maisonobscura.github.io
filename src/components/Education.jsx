@@ -56,6 +56,26 @@ function Education() {
 
       </div>
 
+      <div className="education__item">
+
+      <div className="education__year">
+          2026 — 2026
+      </div>
+
+        <div>
+
+          <div className="education__title">
+            Продакт-менеджер с сертификатом
+          </div>
+
+          <div className="education__place">
+            ВКонтакте
+          </div>
+
+        </div>
+
+      </div>
+
     </section>
   )
 }

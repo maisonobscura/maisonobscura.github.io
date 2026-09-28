@@ -59,7 +59,6 @@ const works = [
     images: [
       "/img/moskit.jpg",
       "/img/moskit2.png",
-      "/img/moskit21.png",
       "/img/moskit3.png",
       "/img/moskit4.png",
       "/img/moskit5.png",
