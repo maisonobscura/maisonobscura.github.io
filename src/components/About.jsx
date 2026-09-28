@@ -42,7 +42,7 @@ function About() {
 
           <img
             src="img/me.jpg"
-            alt="maison obscura"
+            alt="Евгений Горбунов"
           />
 
         </div>
