@@ -513,6 +513,7 @@ useEffect(() => {
                 backgroundImage: 'url(${work.images[0]})',
                 backgroundSize: "cover",
                 backgroundPosition: "center",
+                backgroundRepeaet: "no-repeat"
               }}>
 
                 <div className="work__visual-top">
