@@ -41,7 +41,7 @@ function About() {
         <div className="about__photo">
 
           <img
-            src="img/me.jpeg"
+            src="img/ev.jpg"
             alt="Евгений Горбунов"
           />
 
