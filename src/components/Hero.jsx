@@ -91,7 +91,7 @@ function Hero() {
                   points="
                     200,68
                     313,135
-                    270,241
+                    310,264
                     200,310  
                     126,243
                     135,162
@@ -102,7 +102,7 @@ function Hero() {
                 {/* Точки */}
                 <circle cx="200" cy="68" r="4" className="radar__point" />
                 <circle cx="313" cy="135" r="4" className="radar__point" />
-                <circle cx="270" cy="241" r="4" className="radar__point" />
+                <circle cx="310" cy="264" r="4" className="radar__point" />
                 <circle cx="200" cy="310" r="4" className="radar__point" />
                 <circle cx="126" cy="243" r="4" className="radar__point" />
                 <circle cx="135" cy="162" r="4" className="radar__point" />
