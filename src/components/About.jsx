@@ -55,7 +55,7 @@ function About() {
             </div>
 
             <div className="fact__value">
-              Удалённо / гибрид
+              Удалённо / гибрид / офис
             </div>
           </div>
 
