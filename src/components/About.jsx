@@ -41,7 +41,7 @@ function About() {
         <div className="about__photo">
 
           <img
-            src="img/me.jpg"
+            src="img/me.jpeg"
             alt="maison obscura"
           />
 
