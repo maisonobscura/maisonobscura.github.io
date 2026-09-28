@@ -66,25 +66,6 @@ const works = [
       "/img/moskit6.png",
     ],
   },
-
-    {
-    id: 4,
-    number: "04",
-    label: "WEB",
-    name: "Portfolio website",
-    type: "HTML / CSS / REACT",
-    categories: ["web"],
-    description: "ТЕСТ",
-    task:
-      "ТЕСТОВОЕ ПОЛЕ ТЕСТОВОЕ ПОЛЕ ТЕСТОВОЕ ПОЛЕ",
-    role:
-      "ТЕСТОВОЕ ПОЛЕ ТЕСТОВОЕ ПОЛЕ ТЕСТОВОЕ ПОЛЕ",
-    images: [
-      "/img/design-1.jpg",
-      "/img/design-2.jpg",
-      "/img/design-3.jpg",
-    ],
-  },
 ]
 
 function Works() {
