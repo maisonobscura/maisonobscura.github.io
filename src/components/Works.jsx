@@ -509,12 +509,8 @@ useEffect(() => {
               >
 
 
-              <div className="work__visual" style={{
-                backgroundImage: 'url(${work.images[0]})',
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-                backgroundRepeaet: "no-repeat"
-              }}>
+              <div className="work__visual">
+                <img src={work.images && work.images.length > 0 ? work.images[0] : ""} alt="" />
 
                 <div className="work__visual-top">
 
