@@ -94,7 +94,7 @@ function Results() {
         <div className="result">
 
           <div className="result__number">
-            <AnimatedNumber value={100} suffix="K+" />
+            <AnimatedNumber value={10000000} suffix="+" />
           </div>
 
           <div className="result__title">
@@ -120,7 +120,7 @@ function Results() {
 
           <div className="result__description">
             Рост сообщества интернет-магазина
-            с 15–20 тысяч до 30 тысяч подписчиков.
+            с 15 тысяч до 30 тысяч подписчиков.
           </div>
 
         </div>
