@@ -42,7 +42,7 @@ function About() {
 
           <img
             src="img/me.jpg"
-            alt="Евгений Горбунов"
+            alt="Евгений"
           />
 
         </div>
