@@ -60,6 +60,7 @@ const works = [
       "/img/moskit.jpg",
       "/img/moskit2.png",
       "/img/moskit3.png",
+      "/img/moskit31.png",
       "/img/moskit4.png",
       "/img/moskit5.png",
       "/img/moskit6.png",
